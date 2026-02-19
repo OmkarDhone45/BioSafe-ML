@@ -1,0 +1,8 @@
+
+{
+  "name": "Medicine Side-Effect Risk Predictor",
+  "description": "An AI-powered application that uses a locally-trained Random Forest model and Gemini-driven explainability with Google Maps grounding to predict medicine side-effect risks and find nearby care.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
